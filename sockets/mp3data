@@ -1,0 +1,11 @@
+[{"Yeah Yeah Yeahs - Heads Will Roll (A-Trak Remix).mp3",
+  {"ID3v1",
+   [{title,<<"Heads Will Roll (A-Trak Remix)">>},
+    {artist,<<"Yeah Yeah Yeahs">>},
+    {album,<<>>}]}},
+ {"YeahYeahYeahs-HeadsWillRoll.mp3",
+  {"ID3v1.1",
+   [{track,1},
+    {title,<<"Heads Will Roll (A-Trak Club M">>},
+    {artist,<<"Yeah Yeah Yeahs">>},
+    {album,<<>>}]}}].
